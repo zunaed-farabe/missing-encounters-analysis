@@ -1,7 +1,7 @@
 # Operator Case Study – Data Analyst Challenge
 
 ## 📌 Overview
-This project addresses the **RCM Data Analyst Challenge: Closed Encounters Analysis**. It involves comparing two datasets:
+This project addresses the **Missing Encounters Analysis Challange**. It involves comparing two datasets:
 1. **Client’s EHR Closed Encounters** – A list of closed encounters recorded in the electronic health records (EHR).
 2. **Imported Closed Encounters** – A list of encounters that were successfully imported into the Normandy system.
 
